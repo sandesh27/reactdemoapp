@@ -1,0 +1,13 @@
+.book {
+    margin: 0;
+    overflow: auto;
+}
+
+.book__price {
+    display: inline-block;
+    line-height: 34px;
+}
+
+.book__button-wrap {
+    float: right;
+}
