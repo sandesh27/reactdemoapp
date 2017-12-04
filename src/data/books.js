@@ -41,8 +41,8 @@ const data = [
   },
   {
     id: 6,
-    name: 'Architecture In India',
-	author: 'Rahul Mehrotra',
+    name: 'The Captive Wife',
+	author: 'Fiona Kidman',
     price: 850,
     currency: 'INR',
     image: 'images/06.jpg',
